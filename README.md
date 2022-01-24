@@ -1,6 +1,8 @@
 # Virustotal_IP_Check
 
-## Commands:
-python3 virustotal.py NAME_OF_CSV_FILE.csv
+## Command:
+ python3 virustotal.py NAME_OF_CSV_FILE.csv
 
-Results will be outputted in the results.csv file
+
+Results will be outputted in the result.csv file.
+
